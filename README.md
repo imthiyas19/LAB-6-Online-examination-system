@@ -42,7 +42,8 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 
 ## PACKAGE DIAGRAM:
 
-![Uploading 281255252-a6008039-62bc-41d9-9001-ee99bd63115f.png…]()
+
+![image](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/940df558-3d05-47aa-a62a-39e62487a682)
 
 
 
