@@ -16,6 +16,33 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+## USE CASE DIAGRAM:
+
+
+![281252687-9f321813-732e-41de-8920-76a982181f7a](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/c7dda9d3-4d04-4173-90de-dab6da3091f7)
+
+
+## CLASS DIAGRAM:
+
+![281252735-c8e4d312-2ae5-4214-b78e-57c2e529c20e](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/e1e26875-1451-4bf7-abb4-c26965b85095)
+
+## SEQUENCE DIAGRAM:
+
+![281252804-f55f9e9e-f63d-4a1b-b3f6-214b644902a7](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/710f0d15-eca3-4d8a-b685-de18c14bc41e)
+
+## COMMUNICATION DIAGRAM:
+
+
+
+![281253084-e0a22edf-d5f3-4e7b-b8c2-8fce42590f33](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/8fddd84a-8e34-4326-a84a-1b3637551c76)
+## ACTIVITY DIAGRAM:
+
+
+![281253156-4a61ecce-1028-4714-825d-df4287ba95f8](https://github.com/imthiyas19/LAB-6-Online-examination-system/assets/120353416/4cab865b-0723-4141-8413-3f4f25e125c7)
+
+## PACKAGE DIAGRAM:
+
+![Uploading 281255252-a6008039-62bc-41d9-9001-ee99bd63115f.png…]()
 
 
 
